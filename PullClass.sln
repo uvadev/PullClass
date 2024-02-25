@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PullClass", "PullClass\PullClass.csproj", "{3D6A9EEA-B251-43A4-8050-5E0734563AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PullClassTest", "PullClassTest\PullClassTest.csproj", "{2D7B53FB-F4DD-4E73-9A04-D073BA0142AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6A9EEA-B251-43A4-8050-5E0734563AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6A9EEA-B251-43A4-8050-5E0734563AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6A9EEA-B251-43A4-8050-5E0734563AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6A9EEA-B251-43A4-8050-5E0734563AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7B53FB-F4DD-4E73-9A04-D073BA0142AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7B53FB-F4DD-4E73-9A04-D073BA0142AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7B53FB-F4DD-4E73-9A04-D073BA0142AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7B53FB-F4DD-4E73-9A04-D073BA0142AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
